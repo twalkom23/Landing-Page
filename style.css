@@ -68,5 +68,28 @@ ul {
 
 }
 
+.second-container {
+    height: 500px;
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;
+}
+.images {
+    display: flex;
+    gap: 50px;
+    padding-top: 60px;
+}
+.text-under-box {
+    text-align: center;
+    width: 150px;
+}
+
+.img-border {
+    border: 3px solid #3882f6;
+    border-radius: 10%;
+}
+
+
 
 
