@@ -140,8 +140,17 @@ button {
     background-color: #3882f6;
     border: 2px solid white;
     border-radius: 4px;
+    color: white; 
+}
+
+.footer {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
     color: white;
-    
 }
 
 
