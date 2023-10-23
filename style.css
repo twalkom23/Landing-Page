@@ -112,6 +112,41 @@ ul {
     font-size: 20px;
 }
 
+.fourth-container {
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-content {
+    background-color: #3882f6;
+    width: 900px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.fourth-writing {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 0px;
+}
+button {
+    height: 30px;
+    width: 100px;
+    align-self: center;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 4px;
+    color: white;
+    
+}
+
+
+
+
 
 
 
